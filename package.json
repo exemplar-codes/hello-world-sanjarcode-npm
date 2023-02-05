@@ -1,6 +1,6 @@
 {
   "name": "hello-world-sanjarcode-npm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Publishing a package to npmjs",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/exemplar-codes/hello-world-sanjarcode-npm.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hello wolrd",
+    "beginner"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
